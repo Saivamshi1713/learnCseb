@@ -1,4 +1,4 @@
-//C++ program to implement stack operations using Arrays this is modified
+//C++ program to implement stack operations using Arrays this is modified and inserted
 
 
 #include <iostream>
